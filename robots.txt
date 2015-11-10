@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://michaelengland.github.io/sitemap.xml 
+Sitemap: http://softwarerants.com/sitemap.xml 

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://michaelengland.github.io/atom.xml" rel="self"/>
-  <link href="http://michaelengland.github.io/"/>
-  <updated>2015-11-10T17:24:23+01:00</updated>
-  <id>http://michaelengland.github.io/</id>
+  <title><![CDATA[Software Rants]]></title>
+  <link href="http://softwarerants.com/atom.xml" rel="self"/>
+  <link href="http://softwarerants.com/"/>
+  <updated>2015-11-10T17:50:22+01:00</updated>
+  <id>http://softwarerants.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Michael England]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
